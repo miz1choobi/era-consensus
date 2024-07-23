@@ -1,5 +1,4 @@
 CODEOWNERS @brunoffranca
-
 /node/actors/bft/ @brunoffranca
 /node/actors/network/ @pompon0
 
